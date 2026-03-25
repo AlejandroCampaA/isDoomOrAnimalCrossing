@@ -25,10 +25,6 @@ build/
 dist/
 *.egg-info/
 
-# Project artifacts
-temp_model.keras
-modelo_doom_vs_ac.keras
-
 # Local datasets (can be large)
 dataset_doom_animal/
 dataset_doom_animalCrossing/venv/
