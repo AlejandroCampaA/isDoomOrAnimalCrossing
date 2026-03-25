@@ -30,6 +30,7 @@ Asumiendo que ya manejas Git y terminal:
 
 	git clone https://github.com/AlejandroCampaA/isDoomOrAnimalCrossing.git
 	cd isDoomOrAnimalCrossing
+	code .
 
 ## 3. Crear entorno virtual (obligatorio)
 
