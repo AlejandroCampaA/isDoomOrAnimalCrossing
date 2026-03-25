@@ -72,6 +72,7 @@ Con el entorno activo, ejecutar:
 
 	streamlit run app.py
 
+Puede tardar un poco mas de lo normal la primera vez en ejecutarse asi que tenga paciencia 🥸
 Al iniciar, Streamlit mostrara una URL local (normalmente http://localhost:8501) para abrir la interfaz.
 
 ## 6. Prueba rapida en local (recomendada)
